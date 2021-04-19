@@ -1,0 +1,4 @@
+[submodule "submod_python"]
+	path = submod_python
+	url = git@github.com:asingletonjr/submod_python.git
+	branch = main
